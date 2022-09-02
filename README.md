@@ -21,4 +21,4 @@ Clase 5 Python, viernes 2 de septiembre
 ***
 # Programado por: Juan Guillermo Mejía Correa
 
-[comment]: <> (![foto](https://images-na.ssl-images-amazon.com/images/I/71-7gkj8jqL.jpg))
+[//]: # (![foto](https://images-na.ssl-images-amazon.com/images/I/71-7gkj8jqL.jpg))
